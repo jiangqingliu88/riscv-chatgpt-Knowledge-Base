@@ -1,2 +1,8 @@
-# riscv-chatgpt-
-riscv指令集   汇编/c  core微架构   npu/gpu ip   soc    互联   高性能计算  
+# eman client 
+a regression python that you can use in your DIR
+## eman client user guide
+https://eman-client-user-guide.readthedocs.io/en/latest/
+## about us
+EasyView IC Design @CopyRight.
+## helps.
+
