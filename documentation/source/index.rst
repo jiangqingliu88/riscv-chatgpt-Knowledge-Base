@@ -10,7 +10,7 @@ Welcome to eman client user guide's documentation!
    :maxdepth: 2
    :caption: Contents:
 
-   riscv1
+   riscv-chatgpt-Knowledge-Base
    
 
 
