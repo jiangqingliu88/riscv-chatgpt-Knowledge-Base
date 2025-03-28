@@ -1,1 +1,1 @@
-pandoc -o documentation/source/riscv-chatgpt-Knowledge-Base.rst riscv-chatgpt-Knowledge-Base.docx
+pandoc -o documentation/source/riscv-chatgpt-Knowledge-Base.rst riscv-chatgpt-Knowledge-Base_bak.docx
